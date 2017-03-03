@@ -1,0 +1,30 @@
+Add card failed for customer id: 140 with result
+ error message: invalid card
+ Card Type: Master
+Add card failed for customer id: 2 with result
+ error message: invalid card
+ Card Type: Visa
+Add card failed for customer id: 48 with result
+ error message: address missmatch
+ Card Type: Maestro
+Add card failed for customer id: 84 with result
+ error message: funds not available
+ Card Type: Visa
+Add card failed for customer id: 29 with result
+ error message: invalid card
+ Card Type: Visa
+Add card failed for customer id: 10 with result
+ error message: funds not available
+ Card Type: Visa
+Add card failed for customer id: 51 with result
+ error message: address missmatch
+ Card Type: Visa
+Add card failed for customer id: 93 with result
+ error message: funds not available
+ Card Type: Maestro
+Add card failed for customer id: 96 with result
+ error message: invalid card
+ Card Type: Master
+Add card failed for customer id: 25 with result
+ error message: funds not available
+ Card Type: Visa
